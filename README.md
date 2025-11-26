@@ -54,7 +54,20 @@ VS Code / Jupyter Notebook
 
 ## Dataset
 
-A small subset of the IMDB Movie Review Dataset is used.
+IMDB Movie Reviews Dataset
+
+This dataset is one of the most popular for sentiment analysis.
+It contains 50,000 movie reviews labeled as:
+
+Positive (pos/)
+
+Negative (neg/)
+
+📌 Full Official Name
+IMDB Large Movie Review Dataset (ACL IMDB Dataset)
+
+Created by Andrew Maas et al. (Stanford University)
+
 
 Each file contains:
 
