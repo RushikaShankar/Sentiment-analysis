@@ -5,17 +5,18 @@ This project is a simple NLP (Natural Language Processing) implementation that p
 ## Project Objective
 
 To build a machine learning model that can understand text and classify it into sentiment categories.
+
 The goal is to demonstrate:
 
-Basic NLP preprocessing
++ Basic NLP preprocessing
 
-Feature extraction using TF-IDF
++ Feature extraction using TF-IDF
 
-Training a ML classifier
++ Training a ML classifier
 
-Saving & loading models
++ Saving & loading models
 
-Running predictions on new text
++ Running predictions on new text
 
 This project is suitable for academic assignments and demonstrations.
 
